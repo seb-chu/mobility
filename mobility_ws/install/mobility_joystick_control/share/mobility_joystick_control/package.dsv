@@ -1,0 +1,9 @@
+source;share/mobility_joystick_control/hook/pythonpath.ps1
+source;share/mobility_joystick_control/hook/pythonpath.dsv
+source;share/mobility_joystick_control/hook/pythonpath.sh
+source;share/mobility_joystick_control/hook/ament_prefix_path.ps1
+source;share/mobility_joystick_control/hook/ament_prefix_path.dsv
+source;share/mobility_joystick_control/hook/ament_prefix_path.sh
+source;../../build/mobility_joystick_control/share/mobility_joystick_control/hook/pythonpath_develop.ps1
+source;../../build/mobility_joystick_control/share/mobility_joystick_control/hook/pythonpath_develop.dsv
+source;../../build/mobility_joystick_control/share/mobility_joystick_control/hook/pythonpath_develop.sh

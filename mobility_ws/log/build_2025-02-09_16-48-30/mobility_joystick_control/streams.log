@@ -1,0 +1,23 @@
+[1.478s] Invoking command in '/home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_joystick_control': PYTHONPATH=/home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_joystick_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_joystick_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_joystick_control/build --no-deps symlink_data
+[1.833s] running develop
+[2.069s] running egg_info
+[2.069s] creating mobility_joystick_control.egg-info
+[2.070s] writing mobility_joystick_control.egg-info/PKG-INFO
+[2.070s] writing dependency_links to mobility_joystick_control.egg-info/dependency_links.txt
+[2.070s] writing entry points to mobility_joystick_control.egg-info/entry_points.txt
+[2.070s] writing requirements to mobility_joystick_control.egg-info/requires.txt
+[2.070s] writing top-level names to mobility_joystick_control.egg-info/top_level.txt
+[2.070s] writing manifest file 'mobility_joystick_control.egg-info/SOURCES.txt'
+[2.073s] reading manifest file 'mobility_joystick_control.egg-info/SOURCES.txt'
+[2.074s] writing manifest file 'mobility_joystick_control.egg-info/SOURCES.txt'
+[2.077s] running build_ext
+[2.077s] Creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_joystick_control/lib/python3.10/site-packages/mobility-joystick-control.egg-link (link to .)
+[2.079s] 
+[2.079s] Installed /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_joystick_control
+[2.079s] running symlink_data
+[2.079s] creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_joystick_control/share/ament_index
+[2.079s] creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_joystick_control/share/ament_index/resource_index
+[2.079s] creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_joystick_control/share/ament_index/resource_index/packages
+[2.079s] symbolically linking /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_joystick_control/resource/mobility_joystick_control -> /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_joystick_control/share/ament_index/resource_index/packages
+[2.080s] symbolically linking /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_joystick_control/package.xml -> /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_joystick_control/share/mobility_joystick_control
+[2.115s] Invoked command in '/home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_joystick_control' returned '0': PYTHONPATH=/home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_joystick_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_joystick_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_joystick_control/build --no-deps symlink_data

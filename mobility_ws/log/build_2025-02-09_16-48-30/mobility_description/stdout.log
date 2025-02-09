@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating mobility_description.egg-info
+writing mobility_description.egg-info/PKG-INFO
+writing dependency_links to mobility_description.egg-info/dependency_links.txt
+writing entry points to mobility_description.egg-info/entry_points.txt
+writing requirements to mobility_description.egg-info/requires.txt
+writing top-level names to mobility_description.egg-info/top_level.txt
+writing manifest file 'mobility_description.egg-info/SOURCES.txt'
+reading manifest file 'mobility_description.egg-info/SOURCES.txt'
+writing manifest file 'mobility_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/lib/python3.10/site-packages/mobility-description.egg-link (link to .)
+
+Installed /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description
+running symlink_data
+creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/share/ament_index
+creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/share/ament_index/resource_index
+creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/share/ament_index/resource_index/packages
+symbolically linking /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description/resource/mobility_description -> /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/share/ament_index/resource_index/packages
+symbolically linking /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description/package.xml -> /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/share/mobility_description

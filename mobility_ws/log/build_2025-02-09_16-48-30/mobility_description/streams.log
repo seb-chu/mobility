@@ -1,0 +1,23 @@
+[1.459s] Invoking command in '/home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description': PYTHONPATH=/home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description/build --no-deps symlink_data
+[1.805s] running develop
+[2.027s] running egg_info
+[2.028s] creating mobility_description.egg-info
+[2.028s] writing mobility_description.egg-info/PKG-INFO
+[2.028s] writing dependency_links to mobility_description.egg-info/dependency_links.txt
+[2.028s] writing entry points to mobility_description.egg-info/entry_points.txt
+[2.028s] writing requirements to mobility_description.egg-info/requires.txt
+[2.029s] writing top-level names to mobility_description.egg-info/top_level.txt
+[2.029s] writing manifest file 'mobility_description.egg-info/SOURCES.txt'
+[2.032s] reading manifest file 'mobility_description.egg-info/SOURCES.txt'
+[2.033s] writing manifest file 'mobility_description.egg-info/SOURCES.txt'
+[2.035s] running build_ext
+[2.035s] Creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/lib/python3.10/site-packages/mobility-description.egg-link (link to .)
+[2.036s] 
+[2.036s] Installed /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description
+[2.036s] running symlink_data
+[2.037s] creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/share/ament_index
+[2.037s] creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/share/ament_index/resource_index
+[2.037s] creating /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/share/ament_index/resource_index/packages
+[2.037s] symbolically linking /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description/resource/mobility_description -> /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/share/ament_index/resource_index/packages
+[2.037s] symbolically linking /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description/package.xml -> /home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/share/mobility_description
+[2.073s] Invoked command in '/home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description' returned '0': PYTHONPATH=/home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sebastianchu/code/student-orgs/karura/mobility_ws/install/mobility_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sebastianchu/code/student-orgs/karura/mobility_ws/build/mobility_description/build --no-deps symlink_data

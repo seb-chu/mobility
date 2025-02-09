@@ -1,0 +1,9 @@
+source;share/mobility_description/hook/pythonpath.ps1
+source;share/mobility_description/hook/pythonpath.dsv
+source;share/mobility_description/hook/pythonpath.sh
+source;share/mobility_description/hook/ament_prefix_path.ps1
+source;share/mobility_description/hook/ament_prefix_path.dsv
+source;share/mobility_description/hook/ament_prefix_path.sh
+source;../../build/mobility_description/share/mobility_description/hook/pythonpath_develop.ps1
+source;../../build/mobility_description/share/mobility_description/hook/pythonpath_develop.dsv
+source;../../build/mobility_description/share/mobility_description/hook/pythonpath_develop.sh

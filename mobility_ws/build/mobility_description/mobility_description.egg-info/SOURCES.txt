@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+mobility_description/__init__.py
+mobility_description.egg-info/PKG-INFO
+mobility_description.egg-info/SOURCES.txt
+mobility_description.egg-info/dependency_links.txt
+mobility_description.egg-info/entry_points.txt
+mobility_description.egg-info/requires.txt
+mobility_description.egg-info/top_level.txt
+mobility_description.egg-info/zip-safe
+resource/mobility_description
